@@ -1,0 +1,4 @@
+readme
+git clone https://github.com/yujl008/gitskills.git
+关联本地库
+git remote add origin git@github.com:michaelliao/learngit.git
